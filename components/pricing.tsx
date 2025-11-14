@@ -37,18 +37,18 @@ export default function Pricing() {
   const plans = [
     {
       title: "Basic",
-      price: "$19/mo",
+      price: "AOA 5.000,00/mo",
       features: ["1 Cylinder per week", "Standard Delivery", "Email Support"],
     },
     {
       title: "Pro",
-      price: "$49/mo",
+      price: "AOA 10.000,00/mo",
       features: ["3 Cylinders per week", "Priority Delivery", "24/7 Support"],
       popular: true,
     },
     {
       title: "Enterprise",
-      price: "$99/mo",
+      price: "AOA 15.000,00/mo",
       features: [
         "Unlimited Cylinders",
         "Express Delivery",
