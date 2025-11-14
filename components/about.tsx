@@ -65,7 +65,7 @@ export default function About() {
             </div>
             <div className="overflow-hidden rounded-2xl">
               <Image
-                src="/images/photo3.jpeg"
+                src="/images/photo2.jpeg"
                 alt="gas cylinders"
                 width={400}
                 height={300}
